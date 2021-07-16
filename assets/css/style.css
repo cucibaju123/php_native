@@ -1,0 +1,12 @@
+.dashboard {
+  background-color: #00c6b9 !important;
+  color: #fff;
+  transition: transform 0.3s ease-out;
+}
+
+.dashboard:hover {
+  transform: translateY(-0.3rem);
+  cursor: pointer;
+  background-color: #00dacb !important;
+  color: #fff !important;
+}

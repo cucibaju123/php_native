@@ -1,0 +1,48 @@
+.btn-custom {
+  color: #0275a2 !important;
+  border: 1px solid #0275a2 !important;
+  transition: all 0.5s ease;
+}
+.btn-custom:hover {
+  color: #fff !important;
+  background-color: #0275a2 !important;
+  border: 1px solid #0275a2 !important;
+  transition: all 0.5s ease;
+}
+.active {
+  color: #fff !important;
+  background-color: #0275a2 !important;
+  border: 1px solid #0275a2 !important;
+}
+
+.text-custom-secondary {
+  color: #0381b3 !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.nav-item:hover {
+  background-color: #0275a2;
+}
+
+.btn-lg {
+  padding: 0.7rem !important;
+}
+
+.btn-custom-login {
+  color: #fff !important;
+  background-color: #0275a2 !important;
+}
+
+.btn-custom-login:hover {
+  color: #fff !important;
+  background-color: #016288 !important;
+}
